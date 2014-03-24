@@ -1,16 +1,16 @@
 {
-	"appname":"onlineTV",
-	"apkname":"OnlineTV.apk",
-	"apkvername":"2.9.3.0317",
-	"apkvercode":"144",
-	"apkupdateurl":"http://yunos.10moons.com/download/onlinetv/OnlineTV.tar.gz",
-	"apkupdateurlmd5":"0F7100C8B1CFA470B0B7DBDA1A8E2396",
-	"apkmsg":"1.杩涗竴姝ユ彁鍗囦簡绋冲畾鎬?2.浼樺寲浜嗚澶氱粏鑺?,
-	"picturevercode":"20131203093550",
-	"pictureurl":"http://yunos.10moons.com/download/onlinetv/onlinetvpicture.tar.gz",
-	"pictureurlmd5":"87659628F98B815C25BD062601292C1B",
-	"activelink":"",
-	"xmlvercode":"20140324173133",
-	"xmlupdateurl":"http://www.vsf123.com/onlinetv/xml/2_1/10moons.tar.gz",
-	"xmlupdateurlmd5":"66e6726872e608d021b01c5057bb9225"
-}
+		"appname":"onlineTV",
+		"apkname":"OnlineTV.apk",
+		"apkvername":"2.9.3.0317",
+		"apkvercode":"144",
+		"apkupdateurl":"http://yunos.10moons.com/download/onlinetv/OnlineTV.tar.gz",
+		"apkupdateurlmd5":"0F7100C8B1CFA470B0B7DBDA1A8E2396",
+		"apkmsg":"No Comment",
+		"picturevercode":"20131203093550",
+		"pictureurl":"http://yunos.10moons.com/download/onlinetv/onlinetvpicture.tar.gz",
+		"pictureurlmd5":"87659628F98B815C25BD062601292C1B",
+		"activelink":"",
+		"xmlvercode":"20140324173133",
+		"xmlupdateurl":"https://raw.githubusercontent.com/longtvgithub/LongTV/master/10moons.tar.gz",
+		"xmlupdateurlmd5":"B030E034D011AD4DCFDC92657C1D2735"
+		}
