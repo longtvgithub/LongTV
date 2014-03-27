@@ -1,8 +1,8 @@
 {
 		"appname":"onlineTV",
 		"apkname":"OnlineTV.apk",
-		"apkvername":"2.9.3.0317",
-		"apkvercode":"144",
+		"apkvername":"2.9.2.1220",
+		"apkvercode":"142",
 		"apkupdateurl":"http://yunos.10moons.com/download/onlinetv/OnlineTV.tar.gz",
 		"apkupdateurlmd5":"0F7100C8B1CFA470B0B7DBDA1A8E2396",
 		"apkmsg":"No Comment",
@@ -12,5 +12,5 @@
 		"activelink":"",
 		"xmlvercode":"20140324173133",
 		"xmlupdateurl":"https://raw.githubusercontent.com/longtvgithub/LongTV/master/10moons.tar.gz",
-		"xmlupdateurlmd5":"B030E034D011AD4DCFDC92657C1D2735"
+		"xmlupdateurlmd5":"830954353E7DDE44997E61779BF225C5"
 		}
