@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<response>
+  <attributes>
+    <version>1</version>
+    <cata>
+      <c nm="中央台" id="a"/>
+      <c nm="卫视台" id="b"/>
+      <c nm="体育台" id="c"/>
+      <c nm="教育台" id="e"/>
+      <c nm="地方台" id="Z"/>
+      <c nm="成人台" id="X"/>
+    </cata>
+    <liveType id="1" nm="全部频道">
+      <ch id="1" nm="CCTV-1" no="001" cata="a">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/14_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://vcbox.cntv.chinacache.net/cache/11_/seg0/index.m3u8"/>
+      </ch>
+      <ch id="2" nm="CCTV-2" no="002" cata="a">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/204_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://api.veryhd.net/live_proxy/yszb/cctv2.m3u8"/>
+      </ch>
+      <ch id="3" nm="CCTV-3" no="003" cata="a">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/209_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://api.veryhd.net/live_proxy/yszb/cctv3.m3u8"/>
+      </ch>
+      <ch id="4" nm="CCTV-4" no="004" cata="a">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/19_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://api.veryhd.net/live_proxy/yszb/cctv4.m3u8"/>
+      </ch>
+      <ch id="5" nm="CCTV-5" no="005" cata="ac">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/212_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://api.veryhd.net/live_proxy/yszb/cctv5.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://web-play.pptv.com/web-m3u8-300559.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="6" nm="CCTV-6" no="006" cata="ad">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/219_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://api.veryhd.net/live_proxy/yszb/cctv6.m3u8"/>
+      </ch>
+      <ch id="7" nm="CCTV-7" no="007" cata="a">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/224_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://api.veryhd.net/live_proxy/yszb/cctv7.m3u8"/>
+      </ch>
+      <ch id="8" nm="CCTV-8" no="008" cata="ad">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/229_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://api.veryhd.net/live_proxy/yszb/cctv8.m3u8"/>
+      </ch>
+      <ch id="9" nm="CCTV-9" no="009" cata="a">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/294_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://api.veryhd.net/live_proxy/yszb/cctvjilu.m3u8"/>
+      </ch>
+      <ch id="10" nm="CCTV-10" no="010" cata="a">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/234_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://api.veryhd.net/live_proxy/yszb/cctv10.m3u8"/>
+      </ch>
+      <ch id="11" nm="CCTV-11" no="011" cata="a">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/239_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://api.veryhd.net/live_proxy/yszb/cctv11.m3u8"/>
+      </ch>
+      <ch id="12" nm="CCTV-12" no="012" cata="a">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/244_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://api.veryhd.net/live_proxy/yszb/cctv12.m3u8"/>
+      </ch>
+      <ch id="13" nm="CCTV-13" no="013" cata="a">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/24_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://api.veryhd.net/live_proxy/yszb/cctv13.m3u8"/>
+      </ch>
+      <ch id="14" nm="CCTV-14" no="014" cata="ae">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/249_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://api.veryhd.net/live_proxy/yszb/cctvchild.m3u8"/>
+      </ch>
+      <ch id="15" nm="CCTV-15" no="015" cata="a">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/254_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://api.veryhd.net/live_proxy/yszb/cctv15.m3u8"/>
+      </ch>
+      <ch id="16" nm="浙江卫视HD" no="016" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/64_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=31&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://zb.v.qq.com:1863/?progid=1975434150"/>
+      </ch>
+      <ch id="17" nm="广东卫视HD" no="017" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/144_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=60&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://zb.v.qq.com:1863/?progid=857894899"/>
+      </ch>
+      <ch id="18" nm="北京卫视HD" no="018" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/184_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=36&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://zb.v.qq.com:1863/?progid=2414742998"/>
+      </ch>
+      <ch id="19" nm="深圳卫视HD" no="019" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/289_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://zb.v.qq.com:1863/?progid=2220552576"/>
+        <i id="0" nm="" tm="4" url="http://gslb.tv.sohu.com/live?cid=45&amp;type=hls"/>
+      </ch>
+      <ch id="20" nm="黑龙江卫视HD" no="020" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/99_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=59&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://web-play.pptv.com/web-m3u8-300172.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="21" nm="江苏卫视HD" no="021" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/279_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://web-play.pptv.com/web-m3u8-300163.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="22" nm="东方卫视HD" no="022" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/189_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=3&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://zb.v.qq.com:1863/?progid=3900155972"/>
+      </ch>
+      <ch id="23" nm="湖南卫视" no="023" cata="b">
+        <i id="0" nm="" tm="0" url="http://pplive.shntv.cn/live/5/30/e9301e073cf94732a380b765c8b9573d.m3u8?type=ipad"/>
+        <i id="0" nm="" tm="2" url="http://tvie01.ucatv.com.cn/channels/xjyx/HuNan-HD-Suma/flv:HUN_HD_Suma/live.flv"/>
+        <i id="0" nm="" tm="3" url="http://live-cdn.kksmg.com/channels/tvie/test/flv:500k"/>
+      </ch>
+      <ch id="24" nm="江苏卫视" no="024" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/279_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://web-play.pptv.com/web-m3u8-300163.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="25" nm="湖北卫视" no="025" cata="b">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300146.m3u8?type=m3u8.web.pad"/>
+        <i id="0" nm="" tm="1" url="http://gslb.tv.sohu.com/live?cid=22&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://live9.hbtv.com.cn/channels/zbk/hbws/flv:sd/live"/>
+      </ch>
+      <ch id="26" nm="山东卫视" no="026" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/274_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=14&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://play.api.pptv.com/web-m3u8-300161.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="27" nm="浙江卫视" no="027" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/64_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://gslb.tv.sohu.com/live?cid=31&amp;type=hls"/>
+        <i id="0" nm="" tm="2" url="http://zb.v.qq.com:1863/?progid=1975434150"/>
+      </ch>
+      <ch id="28" nm="安徽卫视" no="028" cata="b">
+        <i id="0" nm="" tm="0" url="http://gslb.tv.sohu.com/live?cid=13&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://zb.v.qq.com:1863/?progid=623043810"/>
+      </ch>
+      <ch id="29" nm="云南卫视" no="029" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/119_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=17&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://zb.v.qq.com:1863/?progid=708402866"/>
+      </ch>
+      <ch id="30" nm="四川卫视" no="030" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/89_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=27&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://zb.v.qq.com:1863/?progid=2453801339"/>
+      </ch>
+      <ch id="31" nm="河南卫视" no="031" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/114_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=19&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://zb.v.qq.com:1863/?progid=4172356212"/>
+      </ch>
+      <ch id="32" nm="广东卫视" no="032" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/144_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://gslb.tv.sohu.com/live?cid=60&amp;type=hls"/>
+        <i id="0" nm="" tm="2" url="http://zb.v.qq.com:1863/?progid=857894899"/>
+      </ch>
+      <ch id="33" nm="辽宁卫视" no="033" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/74_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=10&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://zb.v.qq.com:1863/?progid=3006271240"/>
+      </ch>
+      <ch id="34" nm="江西卫视" no="034" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/84_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=18&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://play.api.pptv.com/web-m3u8-300168.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="35" nm="重庆卫视" no="035" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/94_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="3" url="http://zb.v.qq.com:1863/?progid=2905421066"/>
+      </ch>
+      <ch id="36" nm="贵州卫视" no="036" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/104_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://gslb.tv.sohu.com/live?cid=32&amp;type=hls"/>
+        <i id="0" nm="" tm="2" url="http://play.api.pptv.com/web-m3u8-300174.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="37" nm="河北卫视" no="037" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/129_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=24&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://play.api.pptv.com/web-m3u8-300143.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="38" nm="吉林卫视" no="038" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/139_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=21&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://web-play.pptv.com/web-m3u8-300176.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="39" nm="广西卫视" no="039" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/124_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://gslb.tv.sohu.com/live?cid=23&amp;type=hls"/>
+        <i id="0" nm="" tm="2" url="http://web-play.pptv.com/web-m3u8-300178.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="40" nm="山西卫视" no="040" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/194_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=50&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://web-play.pptv.com/web-m3u8-300167.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="41" nm="陕西卫视" no="041" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/134_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=20&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://play.api.pptv.com/web-m3u8-300170.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="42" nm="宁夏卫视" no="042" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/174_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://gslb.tv.sohu.com/live?cid=33&amp;type=hls"/>
+        <i id="0" nm="" tm="2" url="http://web-play.pptv.com/web-m3u8-300187.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="43" nm="黑龙江卫视" no="043" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/99_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=59&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://web-play.pptv.com/web-m3u8-300172.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="44" nm="甘肃卫视" no="044" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/169_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=34&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://zb.v.qq.com:1863/?progid=3444760127"/>
+      </ch>
+      <ch id="45" nm="北京卫视" no="045" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/184_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=36&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://web-play.pptv.com/web-m3u8-300166.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="46" nm="天津卫视" no="046" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/79_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=15&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://web-play.pptv.com/web-m3u8-300160.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="47" nm="东南卫视" no="047" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/154_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://gslb.tv.sohu.com/live?cid=7&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://zb.v.qq.com:1863/?progid=1000637964"/>
+      </ch>
+      <ch id="48" nm="东方卫视" no="048" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/189_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=3&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://zb.v.qq.com:1863/?progid=3900155972"/>
+      </ch>
+      <ch id="49" nm="南方卫视" no="049" cata="b">
+        <i id="0" nm="" tm="0" url="http://gslb.tv.sohu.com/live?cid=16&amp;type=hls"/>
+      </ch>
+      <ch id="50" nm="深圳卫视" no="050" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/289_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://zb.v.qq.com:1863/?progid=2220552576"/>
+        <i id="0" nm="" tm="4" url="http://gslb.tv.sohu.com/live?cid=45&amp;type=hls"/>
+      </ch>
+      <ch id="51" nm="旅游卫视" no="051" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/179_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=28&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://web-play.pptv.com/web-m3u8-300158.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="53" nm="内蒙古卫视" no="053" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/149_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://gslb.tv.sohu.com/live?cid=26&amp;type=hls"/>
+      </ch>
+      <ch id="54" nm="青海卫视" no="054" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/159_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=12&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://zb.v.qq.com:1863/?progid=877636586"/>
+      </ch>
+      <ch id="55" nm="西藏卫视" no="055" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/164_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://gslb.tv.sohu.com/live?cid=25&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://web-play.pptv.com/web-m3u8-300412.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="56" nm="新疆卫视" no="056" cata="b">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/199_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=5&amp;type=hls"/>
+        <i id="0" nm="" tm="3" url="http://play.api.pptv.com/web-m3u8-300411.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="57" nm="广东珠江" no="057" cata="mZ">
+        <i id="0" nm="" tm="0" url="http://zb.v.qq.com:1863/?progid=1926463423"/>
+        <i id="0" nm="" tm="1" url="http://httplive.gdtv.cn:1935/live/zjpd/playlist.m3u8"/>
+      </ch>
+      <ch id="58" nm="香港卫视" no="058" cata="bw">
+        <i id="0" nm="" tm="0" url="rtmp://live.hkstv.hk.lxdns.com/live/hks"/>
+      </ch>
+      <ch id="59" nm="凤凰卫视中文台" no="059" cata="bw">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300621.m3u8?type=m3u8.web.pad"/>
+        <i id="0" nm="" tm="2" url="http://live.3gv.ifeng.com/live/zhongwen.m3u8?fmt=x264_0k_mpegts&amp;size=320x240"/>
+      </ch>
+      <ch id="60" nm="凤凰卫视资讯台" no="060" cata="bw">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300311.m3u8?type=m3u8.web.pad"/>
+        <i id="0" nm="" tm="1" url="http://live.3gv.ifeng.com/live/hls/1500.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://live.3gv.ifeng.com/live/zixun.m3u8"/>
+      </ch>
+      <ch id="65" nm="壹电视新闻台" no="065" cata="wZ">
+        <i id="0" nm="" tm="0" url="http://nexttvnews_hls-i.akamaihd.net/hls/live/215819/nexttvnews_hls/StreamEdge.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://nexttvnews_hls-i.akamaihd.net/hls/live/215819/nexttvnews_hls/StreamWifi.m3u8"/>
+      </ch>
+      <ch id="66" nm="安徽影视频道" no="066" cata="dOZ">
+        <i id="0" nm="" tm="0" url="http://stream2.ahtv.cn/yspd/hd/live.m3u8"/>
+      </ch>
+      <ch id="67" nm="安徽经济生活" no="067" cata="OZ">
+        <i id="0" nm="" tm="0" url="http://stream2.ahtv.cn/jjsh/hd/live.m3u8"/>
+      </ch>
+      <ch id="68" nm="安徽综艺频道" no="068" cata="OZ">
+        <i id="0" nm="" tm="0" url="http://stream2.ahtv.cn/zypd/hd/live.m3u8"/>
+      </ch>
+      <ch id="69" nm="安徽科教频道" no="069" cata="OZ">
+        <i id="0" nm="" tm="0" url="http://stream2.ahtv.cn/kjpd/hd/live.m3u8"/>
+      </ch>
+      <ch id="70" nm="安徽公共频道" no="070" cata="OZ">
+        <i id="0" nm="" tm="0" url="http://stream2.ahtv.cn/ahgg/hd/live.m3u8"/>
+      </ch>
+      <ch id="71" nm="安徽人物频道" no="071" cata="OZ">
+        <i id="0" nm="" tm="0" url="http://stream2.ahtv.cn/rwpd/hd/live.m3u8"/>
+      </ch>
+      <ch id="72" nm="安徽国际频道" no="072" cata="OZ">
+        <i id="0" nm="" tm="0" url="http://stream2.ahtv.cn/ahgj/hd/live.m3u8"/>
+      </ch>
+      <ch id="73" nm="北京文艺频道" no="073" cata="KZ">
+        <i id="0" nm="" tm="2" url="http://gslb.tv.sohu.com/live?cid=37&amp;type=hls"/>
+      </ch>
+      <ch id="74" nm="北京科教频道" no="074" cata="KZ">
+        <i id="0" nm="" tm="1" url="http://gslb.tv.sohu.com/live?cid=38&amp;type=hls"/>
+      </ch>
+      <ch id="75" nm="北京影视频道" no="075" cata="dKZ">
+        <i id="0" nm="" tm="1" url="http://vapptime1.cntv.chinacache.net/cache1/304_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://his.cdn.brtn.cn/approve/live?channel=BTV4&amp;type=iapd"/>
+      </ch>
+      <ch id="76" nm="北京财经频道" no="076" cata="KZ">
+        <i id="0" nm="" tm="1" url="http://vapptime1.cntv.chinacache.net/cache1/284_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://his.cdn.brtn.cn/approve/live?type=ipad&amp;channel=BTV5&amp;suffix=.m3u8"/>
+      </ch>
+      <ch id="77" nm="北京体育频道" no="077" cata="cKZ">
+        <i id="0" nm="" tm="2" url="http://vapptime1.cntv.chinacache.net/cache1/314_/seg0/index.m3u8"/>
+      </ch>
+      <ch id="78" nm="北京生活频道" no="078" cata="KZ">
+        <i id="0" nm="" tm="1" url="http://vapptime1.cntv.chinacache.net/cache1/319_/seg0/index.m3u8"/>
+      </ch>
+      <ch id="79" nm="北京青年频道" no="079" cata="KZ">
+        <i id="0" nm="" tm="1" url="http://vapptime1.cntv.chinacache.net/cache1/324_/seg0/index.m3u8"/>
+      </ch>
+      <ch id="80" nm="北京新闻频道" no="080" cata="KZ">
+        <i id="0" nm="" tm="1" url="http://vapptime1.cntv.chinacache.net/cache1/334_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="3" url="http://his.cdn.brtn.cn/approve/live?type=ipad&amp;channel=BTV9&amp;suffix=.m3u8"/>
+      </ch>
+      <ch id="81" nm="卡酷少儿" no="081" cata="eKZ">
+        <i id="0" nm="" tm="1" url="http://his.cdn.brtn.cn/approve/live?type=ipad&amp;channel=KAKU&amp;suffix=.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://web-play.pptv.com/web-m3u8-300462.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="82" nm="中国气象频道" no="082" cata="KZ">
+        <i id="0" nm="" tm="0" url="rtmp://tw.live.64ma.com/livestream/29236636460b82032853fc991b9b6935"/>
+        <i id="0" nm="" tm="1" url="http://topway.shntv.cn:5080/hls/29236636460b82032853fc991b9b6935.m3u8"/>
+      </ch>
+      <ch id="83" nm="CCTV-文化精品" no="083" cata="a">
+        <i id="0" nm="" tm="0" url="http://api.veryhd.net/live_proxy/yszb/jingpin.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://220.181.168.171:554/160_51902"/>
+      </ch>
+      <ch id="84" nm="CCTV-英语" no="084" cata="a">
+        <i id="0" nm="" tm="0" url="http://vcbox1.cntv.chinacache.net/cache1/299_/seg0/index.m3u8"/>
+      </ch>
+      <ch id="85" nm="CCTV-西班牙" no="085" cata="a">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/44_/seg0/index.m3u8"/>
+      </ch>
+      <ch id="86" nm="CCTV-俄语" no="086" cata="a">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/39_/seg0/index.m3u8"/>
+      </ch>
+      <ch id="87" nm="CCTV-法语" no="087" cata="a">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/29_/seg0/index.m3u8"/>
+      </ch>
+      <ch id="88" nm="CCTV-阿拉伯" no="088" cata="a">
+        <i id="0" nm="" tm="0" url="http://vcbox.cntv.chinacache.net/cache/34_/seg0/index.m3u8"/>
+      </ch>
+      <ch id="89" nm="成都少儿频道" no="089" cata="eEZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300476.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="90" nm="成都新闻综合" no="090" cata="EZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300356.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="91" nm="成都公共频道" no="091" cata="EZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300475.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="92" nm="成都经济资讯" no="092" cata="EZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300472.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="93" nm="成都都市生活" no="093" cata="EZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300473.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="94" nm="广西综艺频道" no="094" cata="lZ">
+        <i id="0" nm="" tm="0" url="http://222.216.111.88:5000/nn_live.flv?id=1005"/>
+      </ch>
+      <ch id="95" nm="广西公共频道" no="095" cata="lZ">
+        <i id="0" nm="" tm="0" url="http://222.216.111.88:5000/nn_live.flv?id=1000"/>
+      </ch>
+      <ch id="96" nm="广西移动频道" no="096" cata="lZ">
+        <i id="0" nm="" tm="0" url="http://222.216.111.88:5000/nn_live.flv?id=1001"/>
+      </ch>
+      <ch id="97" nm="广西国际频道" no="097" cata="lZ">
+        <i id="0" nm="" tm="0" url="http://222.216.111.88:5000/nn_live.flv?id=1003"/>
+      </ch>
+      <ch id="98" nm="广西都市频道" no="098" cata="lZ">
+        <i id="0" nm="" tm="0" url="http://222.216.111.88:5000/nn_live.flv?id=1006"/>
+      </ch>
+      <ch id="99" nm="广西资讯频道" no="099" cata="lZ">
+        <i id="0" nm="" tm="0" url="http://222.216.111.88:5000/nn_live.flv?id=1007"/>
+      </ch>
+      <ch id="100" nm="广西乐思购" no="100" cata="lZ">
+        <i id="0" nm="" tm="0" url="http://222.216.111.88:5000/nn_live.flv?id=1002"/>
+      </ch>
+      <ch id="101" nm="南宁影视娱乐" no="101" cata="dlZ">
+        <i id="0" nm="" tm="0" url="http://hls.nntv.cn/tv/4.m3u8"/>
+      </ch>
+      <ch id="102" nm="南宁新闻综合" no="102" cata="lZ">
+        <i id="0" nm="" tm="0" url="http://tsl.ntv.cutv.com:90/cutvlive/hGhh54l/hls/live.m3u8"/>
+      </ch>
+      <ch id="103" nm="南宁公共频道" no="103" cata="lZ">
+        <i id="0" nm="" tm="0" url="http://hls.nntv.cn/tv/7.m3u8"/>
+      </ch>
+      <ch id="104" nm="南宁都市生活" no="104" cata="lZ">
+        <i id="0" nm="" tm="0" url="http://hls.nntv.cn/tv/5.m3u8"/>
+      </ch>
+      <ch id="105" nm="柳州新闻频道" no="105" cata="lZ">
+        <i id="0" nm="" tm="0" url="http://tsl.ntv.cutv.com:91/cutvlive/mA0cbYv/hls/live.m3u8"/>
+      </ch>
+      <ch id="106" nm="柳州公共频道" no="106" cata="lZ">
+        <i id="0" nm="" tm="0" url="http://219.159.248.115:8088/flv1000"/>
+      </ch>
+      <ch id="107" nm="柳州科教频道" no="107" cata="lZ">
+        <i id="0" nm="" tm="0" url="http://tsl.ntv.cutv.com:91/cutvlive/2Lie8os/hls/live.m3u8"/>
+      </ch>
+      <ch id="109" nm="嘉佳卡通" no="109" cata="emZ">
+        <i id="0" nm="" tm="0" url="http://zb.v.qq.com:1863/?progid=1249794075"/>
+      </ch>
+      <ch id="110" nm="广东体育频道" no="110" cata="cmZ">
+        <i id="0" nm="" tm="0" url="rtmp://livertmp2-cnc.wasu.cn/guangdongsports"/>
+        <i id="0" nm="" tm="2" url="http://livertmp2-cnc.wasu.cn:1935/guangdongsports.flv"/>
+      </ch>
+      <ch id="111" nm="广东新闻频道" no="111" cata="mZ">
+        <i id="0" nm="" tm="0" url="http://httplive.gdtv.cn:1935/live/xwpd/playlist.m3u8"/>
+      </ch>
+      <ch id="112" nm="广东公共频道" no="112" cata="mZ">
+        <i id="0" nm="" tm="0" url="http://zb.v.qq.com:1863/?progid=4035478592"/>
+      </ch>
+      <ch id="113" nm="成都影视文艺" no="113" cata="dEZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300474.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="117" nm="深圳都市频道" no="117" cata="mZ">
+        <i id="0" nm="" tm="0" url="rtmp://live.s1979.com:1935/s1979live/video/sztv_1"/>
+      </ch>
+      <ch id="118" nm="深圳电视剧频道" no="118" cata="dmZ">
+        <i id="0" nm="" tm="0" url="http://topway.shntv.cn:5080/hls/b119789b6fd4f2cb86a59cb0addf7776.m3u8"/>
+      </ch>
+      <ch id="119" nm="深圳财经频道" no="119" cata="mZ">
+        <i id="0" nm="" tm="0" url="rtmp://live.s1979.com:1935/s1979live/video/sztv_3"/>
+      </ch>
+      <ch id="120" nm="深圳娱乐频道" no="120" cata="mZ">
+        <i id="0" nm="" tm="0" url="http://topway.shntv.cn:5080/hls/39291c6066742446fbb141f226a6b932.m3u8"/>
+      </ch>
+      <ch id="121" nm="深圳体育健康" no="121" cata="cmZ">
+        <i id="0" nm="" tm="0" url="rtmp://live.s1979.com:1935/s1979live/video/sztv_5"/>
+      </ch>
+      <ch id="122" nm="深圳公共频道" no="122" cata="mZ">
+        <i id="0" nm="" tm="0" url="rtmp://live.s1979.com:1935/s1979live/video/sztv_7"/>
+      </ch>
+      <ch id="123" nm="深圳少儿频道" no="123" cata="emZ">
+        <i id="0" nm="" tm="0" url="rtmp://live.s1979.com:1935/s1979live/video/sztv_6"/>
+      </ch>
+      <ch id="124" nm="海南青少科教" no="124" cata="nZ">
+        <i id="0" nm="" tm="0" url="rtmp://tv1.bluehn.com/livestream/jiyktgyn"/>
+        <i id="0" nm="" tm="1" url="http://tv1.bluehn.com/livestream/jiyktgyn.flv"/>
+      </ch>
+      <ch id="125" nm="海南文体信息" no="125" cata="nZ">
+        <i id="0" nm="" tm="0" url="rtmp://tv1.bluehn.com/livestream/iid5yspm"/>
+        <i id="0" nm="" tm="1" url="http://tv1.bluehn.com/livestream/iid5yspm.flv"/>
+      </ch>
+      <ch id="126" nm="海南综合频道" no="126" cata="nZ">
+        <i id="0" nm="" tm="0" url="rtmp://tv1.bluehn.com/livestream/pcpy9fed"/>
+        <i id="0" nm="" tm="2" url="http://tv1.bluehn.com/livestream/pcpy9fed.flv"/>
+      </ch>
+      <ch id="127" nm="海南新闻频道" no="127" cata="nZ">
+        <i id="0" nm="" tm="0" url="rtmp://tv1.bluehn.com/livestream/25pyyb9h"/>
+        <i id="0" nm="" tm="1" url="http://tv1.bluehn.com/livestream/25pyyb9h.flv"/>
+      </ch>
+      <ch id="128" nm="石家庄新闻频道" no="128" cata="oZ">
+        <i id="0" nm="" tm="0" url="http://live.2300sjz.com/channels/sjztv/video_channel_01/flv:500k"/>
+      </ch>
+      <ch id="129" nm="石家庄娱乐频道" no="129" cata="oZ">
+        <i id="0" nm="" tm="0" url="http://live.2300sjz.com/channels/sjztv/video_channel_02/flv:500k"/>
+      </ch>
+      <ch id="131" nm="石家庄都市频道" no="131" cata="oZ">
+        <i id="0" nm="" tm="0" url="http://live.2300sjz.com/channels/sjztv/video_channel_04/flv:500k"/>
+      </ch>
+      <ch id="132" nm="石家庄生活频道" no="132" cata="oZ">
+        <i id="0" nm="" tm="0" url="http://live.2300sjz.com/channels/sjztv/video_channel_03/flv:500k"/>
+      </ch>
+      <ch id="133" nm="黑龙江文艺频道" no="133" cata="qZ">
+        <i id="0" nm="" tm="0" url="http://125.211.216.198/channels/hljtv/wypd/flv:sd/live"/>
+        <i id="0" nm="" tm="2" url="http://live2.hljtv.com/channels/hljtv/wypd/flv:hd"/>
+      </ch>
+      <ch id="134" nm="黑龙江都市频道" no="134" cata="qZ">
+        <i id="0" nm="" tm="0" url="http://125.211.216.198/channels/hljtv/dspd/flv:sd/live"/>
+        <i id="0" nm="" tm="1" url="http://live2.hljtv.com/channels/hljtv/dspd/flv:hd"/>
+      </ch>
+      <ch id="135" nm="黑龙江新闻频道" no="135" cata="qZ">
+        <i id="0" nm="" tm="0" url="http://125.211.216.199/channels/hljtv/fzpd/flv:sd/live"/>
+        <i id="0" nm="" tm="2" url="http://live2.hljtv.com/channels/hljtv/fzpd/flv:hd"/>
+      </ch>
+      <ch id="136" nm="黑龙江公共频道" no="136" cata="qZ">
+        <i id="0" nm="" tm="0" url="http://125.211.216.199/channels/hljtv/ggpd/flv:sd/live"/>
+        <i id="0" nm="" tm="2" url="http://live2.hljtv.com/channels/hljtv/ggpd/flv:hd"/>
+      </ch>
+      <ch id="137" nm="黑龙江少儿频道" no="137" cata="qZ">
+        <i id="0" nm="" tm="0" url="http://125.211.216.198/channels/hljtv/dqpd/flv:sd/live"/>
+        <i id="0" nm="" tm="1" url="http://live2.hljtv.com/channels/hljtv/dqpd/flv:hd"/>
+      </ch>
+      <ch id="139" nm="黑龙江考试频道" no="139" cata="qZ">
+        <i id="0" nm="" tm="0" url="http://125.211.216.199/channels/hljtv/kspd/flv:sd/live"/>
+        <i id="0" nm="" tm="1" url="http://live2.hljtv.com/channels/hljtv/kspd/flv:hd"/>
+      </ch>
+      <ch id="140" nm="黑龙江导视频道" no="140" cata="qZ">
+        <i id="0" nm="" tm="0" url="http://125.211.216.199/channels/hljtv/daoshi/flv:sd/live"/>
+        <i id="0" nm="" tm="1" url="http://live2.hljtv.com/channels/hljtv/daoshi/flv:hd"/>
+      </ch>
+      <ch id="141" nm="湖北体育生活" no="141" cata="crZ">
+        <i id="0" nm="" tm="0" url="http://live9.hbtv.com.cn/channels/zbk/hbty/m3u8:sd"/>
+      </ch>
+      <ch id="142" nm="湖北教育频道" no="142" cata="rZ">
+        <i id="0" nm="" tm="0" url="http://live9.hbtv.com.cn/channels/zbk/hbjy/m3u8:sd"/>
+      </ch>
+      <ch id="143" nm="湖北公共频道" no="143" cata="rZ">
+        <i id="0" nm="" tm="0" url="http://live9.hbtv.com.cn/channels/zbk/hbgg/m3u8:sd"/>
+      </ch>
+      <ch id="144" nm="湖北经视频道" no="144" cata="rZ">
+        <i id="0" nm="" tm="0" url="http://live9.hbtv.com.cn/channels/zbk/jingshi2/m3u8:sd"/>
+      </ch>
+      <ch id="145" nm="湖北综合频道" no="145" cata="rZ">
+        <i id="0" nm="" tm="0" url="http://live9.hbtv.com.cn/channels/zbk/hbtv/m3u8:sd"/>
+      </ch>
+      <ch id="146" nm="湖北影视频道" no="146" cata="drZ">
+        <i id="0" nm="" tm="0" url="http://live9.hbtv.com.cn/channels/zbk/hbys/m3u8:sd"/>
+      </ch>
+      <ch id="147" nm="湖北美嘉购物" no="147" cata="rZ">
+        <i id="0" nm="" tm="0" url="http://live9.hbtv.com.cn/channels/zbk/mjgw/m3u8:sd"/>
+      </ch>
+      <ch id="148" nm="孕育指南" no="148" cata="rZ">
+        <i id="0" nm="" tm="0" url="http://live9.hbtv.com.cn/channels/zbk/yyzl/m3u8:sd"/>
+      </ch>
+      <ch id="149" nm="湖北垄上频道" no="149" cata="Z">
+        <i id="0" nm="" tm="0" url="http://live9.hbtv.com.cn/channels/zbk/gspd/m3u8:sd"/>
+      </ch>
+      <ch id="150" nm="武汉新闻频道" no="150" cata="rZ">
+        <i id="0" nm="" tm="0" url="http://hlslive.whtv.com.cn/live/2a532d70bcbe47e6aaccc74dea2655cc.m3u8?fmt=h264_450k_ts&amp;m3u8"/>
+      </ch>
+      <ch id="151" nm="武汉科教频道" no="151" cata="rZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300415.m3u8?type=m3u8.web.pad"/>
+        <i id="0" nm="" tm="1" url="http://hlslive.whtv.com.cn/live/0ee5047bf1ad44098321d1bf08965076.m3u8?fmt=h264_450k_ts&amp;m3u8"/>
+      </ch>
+      <ch id="152" nm="武汉文体频道" no="152" cata="crZ">
+        <i id="0" nm="" tm="0" url="http://hlslive.whtv.com.cn/live/2bc9fa7307ca499a99dddf8f949fe294.m3u8?fmt=h264_450k_ts&amp;m3u8"/>
+      </ch>
+      <ch id="153" nm="武汉少儿频道" no="153" cata="erZ">
+        <i id="0" nm="" tm="0" url="http://hlslive.whtv.com.cn/live/c86318910a5a44fb98db68c5d9f1bd92.m3u8?fmt=h264_450k_ts&amp;m3u8"/>
+      </ch>
+      <ch id="154" nm="职业指南" no="154" cata="rZ">
+        <i id="0" nm="" tm="0" url="http://live9.hbtv.com.cn/channels/zbk/zyzl/m3u8:sd"/>
+      </ch>
+      <ch id="155" nm="武汉影视频道" no="155" cata="rZ">
+        <i id="0" nm="" tm="0" url="http://hlslive.whtv.com.cn/live/30d6cf16a3ad4a288caf298fd9dbe82a.m3u8?fmt=h264_450k_ts&amp;m3u8"/>
+      </ch>
+      <ch id="157" nm="武汉文艺频道" no="157" cata="rZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300416.m3u8?type=m3u8.web.pad"/>
+        <i id="0" nm="" tm="2" url="http://hlslive.whtv.com.cn/live/6b6f634dee044abfa3aa03644ca0e603.m3u8?fmt=h264_450k_ts&amp;m3u8"/>
+      </ch>
+      <ch id="158" nm="武汉海外频道" no="158" cata="rZ">
+        <i id="0" nm="" tm="0" url="http://hlslive.whtv.com.cn/live/33dad9b9db4b47bdb12ba1ff5514796a.m3u8?fmt=h264_450k_ts&amp;m3u8"/>
+      </ch>
+      <ch id="159" nm="长沙新闻频道" no="159" cata="sZ">
+        <i id="0" nm="" tm="1" url="rtmp://58.20.47.58/live/cstv1_800k"/>
+      </ch>
+      <ch id="160" nm="长沙女性频道" no="160" cata="sZ">
+        <i id="0" nm="" tm="0" url="rtmp://58.20.47.58/live/cstv3_800k"/>
+        <i id="0" nm="" tm="1" url="http://58.20.47.58:1935/live/cstv3_800k/playlist.m3u8"/>
+      </ch>
+      <ch id="161" nm="长沙公共频道" no="161" cata="sZ">
+        <i id="0" nm="" tm="0" url="rtmp://58.20.47.58/live/cstv5_800k"/>
+        <i id="0" nm="" tm="2" url="rtmp://220.169.44.38/live/cstv5_800k"/>
+      </ch>
+      <ch id="162" nm="长沙经贸频道" no="162" cata="sZ">
+        <i id="0" nm="" tm="0" url="rtmp://220.169.44.38/live/cstv4_800k"/>
+        <i id="0" nm="" tm="1" url="rtmp://58.20.47.58/live/cstv4_800k"/>
+      </ch>
+      <ch id="163" nm="长沙嘉丽购物" no="163" cata="sZ">
+        <i id="0" nm="" tm="0" url="rtmp://58.20.47.58/live/cstv6_800k"/>
+        <i id="0" nm="" tm="1" url="rtmp://220.169.44.38:1935/live/cstv6_800k"/>
+      </ch>
+      <ch id="164" nm="吉林东北戏曲频道" no="164" cata="tZ">
+        <i id="0" nm="" tm="0" url="http://video1.jlntv.cn/dbxq/index.m3u8"/>
+      </ch>
+      <ch id="165" nm="无锡新闻综合" no="165" cata="uZ">
+        <i id="0" nm="" tm="0" url="http://gslb.tv.sohu.com/live?cid=217883&amp;type=hls"/>
+      </ch>
+      <ch id="167" nm="无锡都市资讯" no="167" cata="uZ">
+        <i id="0" nm="" tm="0" url="http://gslb.tv.sohu.com/live?cid=217790&amp;type=hls"/>
+      </ch>
+      <ch id="170" nm="南京新闻综合" no="170" cata="uZ">
+        <i id="0" nm="" tm="0" url="http://live.xwei.tv/channels/njtv/video_xwzh/flv:500k/live"/>
+      </ch>
+      <ch id="171" nm="南京教科频道" no="171" cata="uZ">
+        <i id="0" nm="" tm="0" url="http://live.xwei.tv/channels/njtv/video_kj/flv:500k/live"/>
+      </ch>
+      <ch id="172" nm="南京十八频道" no="172" cata="uZ">
+        <i id="0" nm="" tm="0" url="http://live.xwei.tv/channels/njtv/video_18/flv:500k/live"/>
+      </ch>
+      <ch id="173" nm="南京娱乐频道" no="173" cata="uZ">
+        <i id="0" nm="" tm="0" url="http://live.xwei.tv/channels/njtv/video_yl/flv:500k/live"/>
+      </ch>
+      <ch id="187" nm="南昌新闻综合" no="187" cata="vZ">
+        <i id="0" nm="" tm="0" url="rtmp://w.ncnews.com.cn/live/nctv1"/>
+      </ch>
+      <ch id="188" nm="南昌都市频道" no="188" cata="vZ">
+        <i id="0" nm="" tm="0" url="rtmp://w.ncnews.com.cn/live/nctv2"/>
+      </ch>
+      <ch id="189" nm="南昌资讯政法" no="189" cata="vZ">
+        <i id="0" nm="" tm="0" url="rtmp://w.ncnews.com.cn/live/nctv3"/>
+      </ch>
+      <ch id="190" nm="南昌公共频道" no="190" cata="vZ">
+        <i id="0" nm="" tm="0" url="rtmp://w.ncnews.com.cn/live/nctv4"/>
+      </ch>
+      <ch id="191" nm="宁夏公共频道" no="191" cata="yZ">
+        <i id="0" nm="" tm="0" url="rtmp://218.95.143.34/live/dslivehd10"/>
+        <i id="0" nm="" tm="1" url="rtmp://218.95.143.34:1935/live/dslivehd10"/>
+      </ch>
+      <ch id="196" nm="济南新闻频道" no="196" cata="AZ">
+        <i id="0" nm="" tm="0" url="http://220.181.168.173:2554/160_52016"/>
+        <i id="0" nm="" tm="1" url="http://stream1.ijntv.cn/jnxw/sd/live.m3u8"/>
+      </ch>
+      <ch id="197" nm="济南娱乐频道" no="197" cata="AZ">
+        <i id="0" nm="" tm="0" url="http://stream1.ijntv.cn/jnyl/sd/live.m3u8"/>
+      </ch>
+      <ch id="198" nm="济南影视频道" no="198" cata="dAZ">
+        <i id="0" nm="" tm="0" url="http://stream1.ijntv.cn/jnyd/sd/live.m3u8"/>
+      </ch>
+      <ch id="199" nm="济南生活频道" no="199" cata="AZ">
+        <i id="0" nm="" tm="0" url="http://stream1.ijntv.cn/jnsh/sd/live.m3u8"/>
+      </ch>
+      <ch id="200" nm="济南商务频道" no="200" cata="AZ">
+        <i id="0" nm="" tm="0" url="http://stream1.ijntv.cn/jnsw/sd/live.m3u8"/>
+      </ch>
+      <ch id="201" nm="济南少儿频道" no="201" cata="eAZ">
+        <i id="0" nm="" tm="0" url="http://stream1.ijntv.cn/jnse/sd/live.m3u8"/>
+      </ch>
+      <ch id="202" nm="济南都市频道" no="202" cata="AZ">
+        <i id="0" nm="" tm="0" url="http://stream1.ijntv.cn/jnds/sd/live.m3u8"/>
+      </ch>
+      <ch id="216" nm="西安新闻综合" no="216" cata="CZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300625.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="217" nm="西安白鸽都市" no="217" cata="CZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300626.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="218" nm="西安商务资讯" no="218" cata="CZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300627.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="219" nm="西安文化影视" no="219" cata="dCZ">
+        <i id="0" nm="" tm="0" url="http://113.140.13.197/live/2011/03/03/678744E4-6597-11E0-9BC4-8191976A168D?fmt=x264_500k_flv"/>
+        <i id="0" nm="" tm="2" url="rtmp://113.140.13.200:1935/liveedge4/livename_1"/>
+      </ch>
+      <ch id="220" nm="西安音乐综艺" no="220" cata="CZ">
+        <i id="0" nm="" tm="0" url="http://113.140.13.197/live/2011/03/03/E3922EB6-6597-11E0-9BC4-8191976A168D?fmt=x264_500k_flv"/>
+        <i id="0" nm="" tm="1" url="rtmp://113.140.13.200:1935/liveedge6/livename_1"/>
+      </ch>
+      <ch id="221" nm="西安健康快乐" no="221" cata="CZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300629.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="224" nm="炫动卡通" no="224" cata="eDZ">
+        <i id="0" nm="" tm="1" url="http://web-play.pptv.com/web-m3u8-300455.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="225" nm="第一财经" no="225" cata="DZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300154.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="226" nm="上海娱乐频道" no="226" cata="DZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300151.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="227" nm="上海外语频道" no="227" cata="DZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300214.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="228" nm="上海星尚频道" no="228" cata="DZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300155.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="229" nm="上海新闻综合" no="229" cata="DZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300156.m3u8?type=m3u8.web.pad"/>
+        <i id="0" nm="" tm="1" url="http://gslb.tv.sohu.com/live?cid=2&amp;type=hls"/>
+      </ch>
+      <ch id="230" nm="五星体育" no="230" cata="cDZ">
+        <i id="0" nm="" tm="0" url="rtmp://livertmp2-cnc.wasu.cn/shanghaisports"/>
+        <i id="0" nm="" tm="1" url="http://livertmp2-cnc.wasu.cn:1935/shanghaisports.flv"/>
+      </ch>
+      <ch id="231" nm="上视艺术人文" no="231" cata="DZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300454.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="233" nm="上视纪实频道" no="233" cata="DZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300152.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="234" nm="东方购物" no="234" cata="DZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300254.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="235" nm="看看新闻网" no="235" cata="DZ">
+        <i id="0" nm="" tm="0" url="http://live-cdn1.smgbb.tv/channels/bbtv/kkxww/flv:sd/live"/>
+      </ch>
+      <ch id="236" nm="上海生活时尚" no="236" cata="DZ">
+        <i id="0" nm="" tm="0" url="http://live-cdn1.smgbb.tv/channels/bbtv/xsk/flv:sd/live"/>
+      </ch>
+      <ch id="238" nm="东方财经" no="238" cata="DZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300446.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="239" nm="云南都市频道" no="239" cata="IZ">
+        <i id="0" nm="" tm="0" url="http://14.204.84.19:554/live/rtmpyntv2/playlist.m3u8"/>
+      </ch>
+      <ch id="240" nm="云南公共频道" no="240" cata="IZ">
+        <i id="0" nm="" tm="0" url="http://14.204.84.19:554/live/rtmpyntv6/playlist.m3u8"/>
+      </ch>
+      <ch id="241" nm="杭州综合频道" no="241" cata="JZ">
+        <i id="0" nm="" tm="0" url="http://stream.hoolo.tv/hztv1/sd/live.m3u8"/>
+      </ch>
+      <ch id="242" nm="杭州明珠频道" no="242" cata="JZ">
+        <i id="0" nm="" tm="0" url="http://stream.hoolo.tv/hztv2/sd/live.m3u8"/>
+      </ch>
+      <ch id="243" nm="浙江钱江频道" no="243" cata="JZ">
+        <i id="0" nm="" tm="0" url="http://r1.cztv.com/channels/102/500.flv/live"/>
+        <i id="0" nm="" tm="1" url="http://r4.cztv.com/channels/102/500.flv"/>
+        <i id="0" nm="" tm="2" url="http://v3.cztv.com/channels/102/500.flv/live"/>
+      </ch>
+      <ch id="244" nm="浙江经视频道" no="244" cata="JZ">
+        <i id="0" nm="" tm="0" url="http://r1.cztv.com/channels/103/500.flv/live"/>
+        <i id="0" nm="" tm="1" url="http://v3.cztv.com/channels/103/500.flv/live"/>
+      </ch>
+      <ch id="245" nm="浙江教育科教" no="245" cata="JZ">
+        <i id="0" nm="" tm="0" url="http://v4.cztv.com/channels/104/500.flv/live"/>
+        <i id="0" nm="" tm="1" url="http://r4.cztv.com/channels/104/500.flv"/>
+        <i id="0" nm="" tm="3" url="http://r1.cztv.com/channels/104/500.flv/live"/>
+      </ch>
+      <ch id="246" nm="浙江影视频道" no="246" cata="dJZ">
+        <i id="0" nm="" tm="0" url="http://r4.cztv.com/channels/105/500.flv"/>
+        <i id="0" nm="" tm="1" url="http://r1.cztv.com/channels/105/500.flv/live"/>
+        <i id="0" nm="" tm="3" url="http://r1.cztv.com/channels/105/500.flv"/>
+      </ch>
+      <ch id="247" nm="浙江民生休闲频道" no="247" cata="JZ">
+        <i id="0" nm="" tm="0" url="http://v6.cztv.com/channels/106/500.flv/live"/>
+        <i id="0" nm="" tm="1" url="http://r1.cztv.com/channels/106/500.flv/live"/>
+        <i id="0" nm="" tm="2" url="http://r4.cztv.com/channels/106/500.flv"/>
+      </ch>
+      <ch id="248" nm="浙江公共新农村" no="248" cata="JZ">
+        <i id="0" nm="" tm="1" url="http://r4.cztv.com/channels/107/500.flv"/>
+        <i id="0" nm="" tm="2" url="http://v7.cztv.com/channels/107/500.flv/live"/>
+        <i id="0" nm="" tm="3" url="http://r1.cztv.com/channels/107/500.flv/live"/>
+      </ch>
+      <ch id="249" nm="浙江少儿频道" no="249" cata="eJZ">
+        <i id="0" nm="" tm="0" url="http://r1.cztv.com/channels/108/500.flv/live"/>
+      </ch>
+      <ch id="250" nm="留学世界" no="250" cata="JZ">
+        <i id="0" nm="" tm="0" url="http://r1.cztv.com/channels/109/500.flv/live"/>
+        <i id="0" nm="" tm="1" url="http://v11.cztv.com/channels/109/500.flv"/>
+      </ch>
+      <ch id="251" nm="杭州生活频道" no="251" cata="JZ">
+        <i id="0" nm="" tm="0" url="http://stream.hoolo.tv/hztv3/sd/live.m3u8"/>
+      </ch>
+      <ch id="252" nm="杭州影视频道" no="252" cata="dJZ">
+        <i id="0" nm="" tm="0" url="http://stream.hoolo.tv/hztv4/sd/live.m3u8"/>
+      </ch>
+      <ch id="253" nm="杭州少儿频道" no="253" cata="eJZ">
+        <i id="0" nm="" tm="0" url="http://stream.hoolo.tv/hztv5/sd/live.m3u8"/>
+      </ch>
+      <ch id="254" nm="宁波新闻综合" no="254" cata="JZ">
+        <i id="0" nm="" tm="0" url="http://ming-live.nbtv.cn/channels/nbtv/nbtv1/flv:sd1/live"/>
+      </ch>
+      <ch id="255" nm="宁波社会生活" no="255" cata="JZ">
+        <i id="0" nm="" tm="0" url="http://ming-live.nbtv.cn/channels/nbtv/nbtv2/flv:sd/live"/>
+      </ch>
+      <ch id="256" nm="宁波影视频道" no="256" cata="JZ">
+        <i id="0" nm="" tm="0" url="http://ming-live.nbtv.cn/channels/nbtv/nbtv4/flv:sd/live"/>
+      </ch>
+      <ch id="257" nm="宁波文化娱乐" no="257" cata="JZ">
+        <i id="0" nm="" tm="0" url="http://ming-live.nbtv.cn/channels/nbtv/nbtv3/flv:sd/live"/>
+      </ch>
+      <ch id="258" nm="宁波少儿频道" no="258" cata="eJZ">
+        <i id="0" nm="" tm="0" url="http://ming-live.nbtv.cn/channels/nbtv/nbtv5/flv:sd/live"/>
+      </ch>
+      <ch id="264" nm="南京生活频道" no="264" cata="uZ">
+        <i id="0" nm="" tm="0" url="http://gslb.tv.sohu.com/live?cid=73&amp;type=hls"/>
+        <i id="0" nm="" tm="1" url="http://live.xwei.tv/channels/njtv/video_shh/m3u8:250k"/>
+        <i id="0" nm="" tm="2" url="http://live.xwei.tv/channels/njtv/video_shh/flv:500k/live"/>
+      </ch>
+      <ch id="265" nm="南京少儿频道" no="265" cata="euZ">
+        <i id="0" nm="" tm="0" url="http://live.xwei.tv/channels/njtv/video_shaoer/m3u8:250k"/>
+        <i id="0" nm="" tm="1" url="http://live.xwei.tv/channels/njtv/video_shaoer/flv:250k/live"/>
+        <i id="0" nm="" tm="2" url="http://live.xwei.tv/channels/njtv/video_shaoer/flv:500k/live"/>
+      </ch>
+      <ch id="266" nm="优漫卡通" no="266" cata="uZ">
+        <i id="0" nm="" tm="0" url="http://api.veryhd.net/live_proxy/bdtv/1503346.m3u8"/>
+      </ch>
+      <ch id="268" nm="上海教育频道" no="268" cata="DZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300150.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="269" nm="绍兴影视娱乐" no="269" cata="dJZ">
+        <i id="0" nm="" tm="0" url="http://livesx.cutv.com/channels/shaoxing/movie2/flv:500k_2/live?1388396768007"/>
+      </ch>
+      <ch id="270" nm="绍兴新闻综合" no="270" cata="JZ">
+        <i id="0" nm="" tm="0" url="http://livesx.cutv.com/channels/shaoxing/news/flv:500k2/live?1388396727522"/>
+      </ch>
+      <ch id="273" nm="CCTV-NEWS" no="273" cata="a">
+        <i id="0" nm="" tm="1" url="http://vtime.cntv.chinacache.net:8000/live/flv/channel49"/>
+      </ch>
+      <ch id="274" nm="CCTV-5+" no="274" cata="a">
+        <i id="0" nm="" tm="1" url="http://vcbox1.cntv.chinacache.net/cache1/259_/seg0/index.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://vcbox1.cntv.chinacache.net/cache1/257_/seg0/index.m3u8"/>
+      </ch>
+      <ch id="278" nm="中国教育台-1" no="278" cata="a">
+        <i id="0" nm="" tm="0" url="http://gslb.tv.sohu.com/live?cid=30&amp;type=hls"/>
+        <i id="0" nm="" tm="1" url="http://play.api.pptv.com/web-m3u8-300165.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="279" nm="中国教育台-2" no="279" cata="a">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300417.m3u8?type=m3u8.web.pad"/>
+        <i id="0" nm="" tm="1" url="http://112.117.210.4:80/live/5/45/b9bec63302f74079867b5b304087ba8b.m3u8?type=52itv&amp;k=0bdf48a1ffeacb3ed52be9b80c8281f6"/>
+      </ch>
+      <ch id="280" nm="中国教育台-3" no="280" cata="a">
+        <i id="0" nm="" tm="0" url="http://gslb.tv.sohu.com/live?cid=29&amp;type=hls"/>
+      </ch>
+      <ch id="281" nm="南方综艺" no="281" cata="mZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300406.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="282" nm="南方少儿" no="282" cata="mZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300407.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="283" nm="南方影视" no="283" cata="b">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300449.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="285" nm="海峡卫视" no="285" cata="b">
+        <i id="0" nm="" tm="0" url="http://play.api.pptv.com/web-m3u8-300403.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="286" nm="香港卫视精品台" no="286" cata="T">
+        <i id="0" nm="" tm="0" url="http://221.120.177.59/hls/i3d7ragr.m3u8"/>
+      </ch>
+      <ch id="289" nm="东莞综合" no="289" cata="mZ">
+        <i id="0" nm="" tm="0" url="rtmp://ftv.sun0769.com/dgrtv1/mp4:b1"/>
+      </ch>
+      <ch id="290" nm="东莞公共" no="290" cata="mZ">
+        <i id="0" nm="" tm="0" url="http://mtv.sun0769.com/dgrtv2/playlist.m3u8"/>
+      </ch>
+      <ch id="291" nm="欧洲足球" no="291" cata="cT">
+        <i id="0" nm="" tm="0" url="rtmp://rtmpexo.wasu.cn/live/ozzq"/>
+        <i id="0" nm="" tm="1" url="http://httplive.gdtv.cn:1935/live/soccer/playlist.m3u8"/>
+      </ch>
+      <ch id="292" nm="电子体育" no="292" cata="cT">
+        <i id="0" nm="" tm="0" url="rtmp://rtmpexo.wasu.cn/live3/dzty"/>
+      </ch>
+      <ch id="294" nm="车迷世界" no="294" cata="T">
+        <i id="0" nm="" tm="0" url="rtmp://rtmpexo.wasu.cn/live4/cmpd"/>
+      </ch>
+      <ch id="295" nm="好消息2台" no="295" cata="T">
+        <i id="0" nm="" tm="0" url="http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch2-3.m3u8"/>
+      </ch>
+      <ch id="296" nm="好消息1台" no="296" cata="T">
+        <i id="0" nm="" tm="0" url="http://210.59.248.53/hls-live/livepkgr/_definst_/liveevent/live-ch1-3.m3u8"/>
+      </ch>
+      <ch id="297" nm="珠江电影" no="297" cata="dmZ">
+        <i id="0" nm="" tm="0" url="http://58.248.254.9:1935/tvlive/zjdy-h.stream/playlist.m3u8?"/>
+      </ch>
+      <ch id="298" nm="东方电影" no="298" cata="dDZ">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300149.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="303" nm="昆明新闻" no="303" cata="IZ">
+        <i id="0" nm="" tm="0" url="http://14.204.23.68/live/611e29c0cdb644bdbb929f527fefb844?fmt=h264_800k_flv"/>
+        <i id="0" nm="" tm="1" url="http://42.243.110.212/live/611e29c0cdb644bdbb929f527fefb844?fmt=h264_800k_flv"/>
+      </ch>
+      <ch id="304" nm="昆明阳光" no="304" cata="IZ">
+        <i id="0" nm="" tm="0" url="http://14.204.23.68/live/1474b3059ebe4cd2a2ac2e1d23bb7c45?fmt=h264_800k_flv"/>
+        <i id="0" nm="" tm="1" url="http://42.243.110.212/live/1474b3059ebe4cd2a2ac2e1d23bb7c45?fmt=h264_800k_flv"/>
+      </ch>
+      <ch id="305" nm="昆明健康" no="305" cata="IZ">
+        <i id="0" nm="" tm="0" url="http://14.204.23.68/live/eba45c00e62e4a73ae510a8ec546218d?fmt=h264_800k_flv"/>
+        <i id="0" nm="" tm="1" url="http://42.243.110.212/live/eba45c00e62e4a73ae510a8ec546218d?fmt=h264_800k_flv"/>
+      </ch>
+      <ch id="306" nm="昆明财富" no="306" cata="IZ">
+        <i id="0" nm="" tm="0" url="http://14.204.23.68/live/c9ef3a04123944cda5e7054d21c6632b?fmt=h264_800k_flv"/>
+        <i id="0" nm="" tm="1" url="http://42.243.110.212/live/c9ef3a04123944cda5e7054d21c6632b?fmt=h264_800k_flv"/>
+      </ch>
+      <ch id="307" nm="昆明影视" no="307" cata="IZ">
+        <i id="0" nm="" tm="0" url="http://14.204.23.68/live/6c12ad3b9bd24771a90a5d7aa8658551?fmt=h264_800k_flv"/>
+        <i id="0" nm="" tm="1" url="http://42.243.110.212/live/6c12ad3b9bd24771a90a5d7aa8658551?fmt=h264_800k_flv"/>
+      </ch>
+      <ch id="308" nm="昆明春城" no="308" cata="IZ">
+        <i id="0" nm="" tm="0" url="http://14.204.23.68/live/6e5fe2b5907b43ad8366208b3e1ee07c?fmt=h264_800k_flv"/>
+        <i id="0" nm="" tm="1" url="http://42.243.110.212/live/6e5fe2b5907b43ad8366208b3e1ee07c?fmt=h264_800k_flv"/>
+      </ch>
+      <ch id="309" nm="四川文化旅游" no="309" cata="Z">
+        <i id="0" nm="" tm="0" url="rtmp://livertmp2-cnc.wasu.cn/rtmp_live/sctv2"/>
+      </ch>
+      <ch id="310" nm="四川经视频道" no="310" cata="Z">
+        <i id="0" nm="" tm="0" url="rtmp://livertmp2-cnc.wasu.cn/rtmp_live/sctv3"/>
+      </ch>
+      <ch id="311" nm="四川新闻资讯" no="311" cata="Z">
+        <i id="0" nm="" tm="0" url="rtmp://livertmp2-cnc.wasu.cn/rtmp_live/sctv4"/>
+      </ch>
+      <ch id="312" nm="四川影视文艺" no="312" cata="Z">
+        <i id="0" nm="" tm="0" url="rtmp://livertmp2-cnc.wasu.cn/rtmp_live/sctv5"/>
+      </ch>
+      <ch id="313" nm="四川妇女儿童" no="313" cata="Z">
+        <i id="0" nm="" tm="0" url="rtmp://livertmp2-cnc.wasu.cn/rtmp_live/sctv7"/>
+      </ch>
+      <ch id="314" nm="四川公共频道" no="314" cata="Z">
+        <i id="0" nm="" tm="0" url="rtmp://livertmp2-cnc.wasu.cn/rtmp_live/sctv9"/>
+      </ch>
+      <ch id="317" nm="三沙卫视" no="317" cata="b">
+        <i id="0" nm="" tm="0" url="rtmp://tv1.bluehn.com:1935/livestream/7s3pzhqc"/>
+      </ch>
+      <ch id="318" nm="兵团卫视" no="318" cata="b">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300157.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="324" nm="@TV爱综艺" no="324" cata="iT">
+        <i id="0" nm="" tm="0" url="http://live121.cnlive.com:1935/live/izongyi/playlist.m3u8"/>
+      </ch>
+      <ch id="325" nm="@TV潮体育" no="325" cata="iT">
+        <i id="0" nm="" tm="0" url="http://live121.cnlive.com:1935/live/chaotiyu/playlist.m3u8"/>
+      </ch>
+      <ch id="326" nm="@TV火星视频" no="326" cata="iT">
+        <i id="0" nm="" tm="0" url="http://live121.cnlive.com:1935/live/huoxingshipin/playlist.m3u8"/>
+      </ch>
+      <ch id="327" nm="@TV动漫" no="327" cata="iT">
+        <i id="0" nm="" tm="0" url="http://live121.cnlive.com:1935/live/dongman/playlist.m3u8"/>
+      </ch>
+      <ch id="328" nm="@TV美丽中国" no="328" cata="iT">
+        <i id="0" nm="" tm="0" url="http://live121.cnlive.com:1935/live/meilizhongguo/playlist.m3u8"/>
+      </ch>
+      <ch id="329" nm="@TV世界小姐" no="329" cata="iT">
+        <i id="0" nm="" tm="0" url="http://live121.cnlive.com:1935/live/shijiexiaojie/playlist.m3u8"/>
+      </ch>
+      <ch id="330" nm="@TV新影视" no="330" cata="iT">
+        <i id="0" nm="" tm="0" url="http://live121.cnlive.com:1935/live/xinyingshi/playlist.m3u8"/>
+      </ch>
+      <ch id="332" nm="TGA游戏" no="332" cata="G">
+        <i id="0" nm="" tm="0" url="http://zb.v.qq.com:1863/?progid=3956944389&amp;ostype=ipad"/>
+      </ch>
+      <ch id="333" nm="SCNtv" no="333" cata="G">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300716.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="334" nm="SCNtv2" no="334" cata="G">
+        <i id="0" nm="" tm="0" url="http://zb.v.qq.com:1863/?progid=1424066668&amp;ostype=ipad"/>
+      </ch>
+      <ch id="339" nm="GTV 游戏竞技" no="339" cata="G">
+        <i id="0" nm="" tm="0" url="http://zb.v.qq.com:1863/?progid=1980972519"/>
+      </ch>
+      <ch id="340" nm="游戏风云" no="340" cata="G">
+        <i id="0" nm="" tm="0" url="http://play.api.pptv.com/web-m3u8-300355.m3u8?type=m3u8.web.pad"/>
+      </ch>
+      <ch id="341" nm="CCTV 中学生" no="341" cata="a">
+        <i id="0" nm="" tm="0" url="http://gslb.tv.sohu.com/live?cid=11&amp;type=hls"/>
+      </ch>
+      <ch id="343" nm="CCTV 证券资讯" no="343" cata="a">
+        <i id="0" nm="" tm="0" url="http://web-play.pptv.com/web-m3u8-300747.m3u8?type=m3u8.web.pad"/>
+        <i id="0" nm="" tm="1" url="http://live121.cnlive.com:1935/live/cctvzhengquan/playlist.m3u8"/>
+      </ch>
+      <ch id="345" nm="辽宁经济" no="345" cata="FZ">
+        <i id="0" nm="" tm="0" url="http://streamer.csytv.com/live/2?fmt=H264_800K_FLV"/>
+      </ch>
+      <ch id="346" nm="辽宁公共" no="346" cata="FZ">
+        <i id="0" nm="" tm="0" url="http://streamer.csytv.com/live/3?fmt=H264_800K_FLV"/>
+      </ch>
+      <ch id="347" nm="辽宁影视" no="347" cata="FZ">
+        <i id="0" nm="" tm="0" url="http://dl.sumaplayer.com:1935/dvr/10054.stream/playlist.m3u8"/>
+      </ch>
+      <ch id="348" nm="辽宁生活" no="348" cata="FZ">
+        <i id="0" nm="" tm="0" url="http://218.25.249.106:8084/NASLABEL/51370/iphonelive/122/index.m3u8"/>
+      </ch>
+      <ch id="349" nm="辽宁体育" no="349" cata="cFZ">
+        <i id="0" nm="" tm="0" url="http://218.25.249.106:8084/NASLABEL/51370/iphonelive/142/index.m3u8"/>
+      </ch>
+      <ch id="350" nm="辽宁宜家购物" no="350" cata="FZ">
+        <i id="0" nm="" tm="0" url="http://218.25.249.106:8084/NASLABEL/51370/iphonelive/162/index.m3u8"/>
+      </ch>
+      <ch id="351" nm="辽宁都市" no="351" cata="FZ">
+        <i id="0" nm="" tm="0" url="http://asu-cv.lntv.streamocean.net/live/LNDS?fmt=x264_450k_flv&amp;cpid=LNTV"/>
+      </ch>
+      <ch id="352" nm="辽宁北方" no="352" cata="FZ">
+        <i id="0" nm="" tm="0" url="http://218.25.249.106:8084/NASLABEL/51370/iphonelive/172/index.m3u8"/>
+      </ch>
+      <ch id="353" nm="[V]音乐台" no="353" cata="T">
+        <i id="0" nm="" tm="0" url="http://main.gslb.ku6.com/broadcast/sub?channel=910"/>
+      </ch>
+      <ch id="354" nm="大连新闻" no="354" cata="FZ">
+        <i id="0" nm="" tm="0" url="http://live.dltv.cn:81/live1/live1_video.m3u8"/>
+      </ch>
+      <ch id="355" nm="大连生活" no="355" cata="FZ">
+        <i id="0" nm="" tm="0" url="http://live.dltv.cn:81/live2/live2.m3u8"/>
+      </ch>
+      <ch id="356" nm="大连公共" no="356" cata="FZ">
+        <i id="0" nm="" tm="0" url="http://live.dltv.cn:81/live3/live3_video.m3u8"/>
+      </ch>
+      <ch id="357" nm="大连文体" no="357" cata="FZ">
+        <i id="0" nm="" tm="0" url="http://live.dltv.cn:81/live4/live4_video.m3u8"/>
+      </ch>
+      <ch id="358" nm="大连影视" no="358" cata="FZ">
+        <i id="0" nm="" tm="0" url="http://live.dltv.cn:81/live5/live5_video.m3u8"/>
+      </ch>
+      <ch id="359" nm="大连少儿" no="359" cata="FZ">
+        <i id="0" nm="" tm="0" url="http://live.dltv.cn:81/live6/live6_video.m3u8"/>
+      </ch>
+      <ch id="360" nm="大连财经" no="360" cata="FZ">
+        <i id="0" nm="" tm="0" url="http://live.dltv.cn:81/live7/live7_video.m3u8"/>
+      </ch>
+      <ch id="361" nm="大连乐天购物" no="361" cata="FZ">
+        <i id="0" nm="" tm="0" url="http://live.dltv.cn:81/live8/live8_video.m3u8"/>
+      </ch>
+      <ch id="362" nm="吉林都市" no="362" cata="jZ">
+        <i id="0" nm="" tm="0" url="http://video1.jlntv.cn/dspd/index.m3u8"/>
+      </ch>
+      <ch id="363" nm="吉林生活" no="363" cata="jZ">
+        <i id="0" nm="" tm="0" url="http://video1.jlntv.cn/shpd/index.m3u8"/>
+      </ch>
+      <ch id="364" nm="吉林影视" no="364" cata="jZ">
+        <i id="0" nm="" tm="0" url="http://video1.jlntv.cn/yspd/index.m3u8"/>
+      </ch>
+      <ch id="365" nm="吉林公共" no="365" cata="jZ">
+        <i id="0" nm="" tm="0" url="http://video1.jlntv.cn/ggpd/index.m3u8"/>
+      </ch>
+      <ch id="366" nm="吉林综艺文化" no="366" cata="jZ">
+        <i id="0" nm="" tm="0" url="http://video1.jlntv.cn/fzpd/index.m3u8"/>
+      </ch>
+      <ch id="367" nm="吉林乡村" no="367" cata="jZ">
+        <i id="0" nm="" tm="0" url="http://video1.jlntv.cn/xcpd/index.m3u8"/>
+      </ch>
+      <ch id="368" nm="吉林篮球" no="368" cata="cjZ">
+        <i id="0" nm="" tm="0" url="http://video1.jlntv.cn/lqpd/index.m3u8"/>
+      </ch>
+      <ch id="369" nm="吉林家有购物" no="369" cata="jZ">
+        <i id="0" nm="" tm="0" url="http://video.jlntv.cn/jygw/index.m3u8"/>
+      </ch>
+      <ch id="370" nm="山西经济" no="370" cata="BZ">
+        <i id="0" nm="" tm="0" url="http://218.26.188.207/flvss?bitrate=512000&amp;channel=Shan1XiFinance"/>
+        <i id="0" nm="" tm="2" url="http://218.26.188.207/flvss?bitrate=800000&amp;channel=Shan1XiFinance"/>
+      </ch>
+      <ch id="371" nm="山西影视" no="371" cata="BZ">
+        <i id="0" nm="" tm="0" url="http://218.26.188.211/flvss?bitrate=512000&amp;channel=Shan1XiFilm"/>
+        <i id="0" nm="" tm="1" url="http://218.26.188.211/flvss?bitrate=800000&amp;channel=Shan1XiFilm"/>
+      </ch>
+      <ch id="372" nm="山西科教" no="372" cata="BZ">
+        <i id="0" nm="" tm="0" url="http://218.26.188.207/flvss?bitrate=512000&amp;channel=Shan1XiEdu"/>
+        <i id="0" nm="" tm="1" url="http://218.26.188.207/flvss?bitrate=800000&amp;channel=Shan1XiEdu"/>
+      </ch>
+      <ch id="373" nm="山西公共" no="373" cata="BZ">
+        <i id="0" nm="" tm="0" url="http://218.26.188.211/flvss?bitrate=512000&amp;channel=Shan1XiPublic"/>
+        <i id="0" nm="" tm="2" url="http://218.26.188.211/flvss?bitrate=800000&amp;channel=Shan1XiPublic"/>
+      </ch>
+      <ch id="374" nm="山西少儿" no="374" cata="BZ">
+        <i id="0" nm="" tm="0" url="http://218.26.188.211/flvss?bitrate=512000&amp;channel=Shan1XiChild"/>
+        <i id="0" nm="" tm="1" url="http://218.26.188.211/flvss?bitrate=256000&amp;channel=Shan1XiChild"/>
+      </ch>
+      <ch id="375" nm="山西黄河电视台" no="375" cata="BZ">
+        <i id="0" nm="" tm="0" url="http://218.26.188.211/flvss?bitrate=800000&amp;channel=HuangHeNews"/>
+        <i id="0" nm="" tm="1" url="http://218.26.188.211/flvss?bitrate=512000&amp;channel=HuangHeNews"/>
+      </ch>
+      <ch id="376" nm="中国黄河" no="376" cata="BZ">
+        <i id="0" nm="" tm="0" url="http://218.26.188.207/flvss?bitrate=512000&amp;channel=ChinaHuangHe"/>
+        <i id="0" nm="" tm="1" url="http://218.26.188.207/flvss?bitrate=800000&amp;channel=ChinaHuangHe"/>
+      </ch>
+      <ch id="377" nm="山西老年福" no="377" cata="BZ">
+        <i id="0" nm="" tm="0" url="http://218.26.188.207/flvss?bitrate=800000&amp;channel=CaiMinZaiXian"/>
+        <i id="0" nm="" tm="1" url="http://218.26.188.207/flvss?bitrate=512000&amp;channel=CaiMinZaiXian"/>
+      </ch>
+      <ch id="378" nm="山西彩民在线" no="378" cata="BZ">
+        <i id="0" nm="" tm="0" url="http://218.26.188.207/flvss?bitrate=800000&amp;channel=CaiMinZaiXian"/>
+        <i id="0" nm="" tm="1" url="http://218.26.188.207/flvss?bitrate=512000&amp;channel=CaiMinZaiXian"/>
+      </ch>
+      <ch id="379" nm="乐视超清" no="379" cata="LT">
+        <i id="0" nm="" tm="0" url="http://live.gslb.letv.com/gslb?stream_id=letv_1080P&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1003"/>
+      </ch>
+      <ch id="381" nm="乐视综合" no="381" cata="LT">
+        <i id="0" nm="" tm="0" url="http://live.gslb.letv.com/gslb?stream_id=channel_1&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1003"/>
+      </ch>
+      <ch id="382" nm="乐视自制" no="382" cata="LT">
+        <i id="0" nm="" tm="0" url="http://live.gslb.letv.com/gslb?stream_id=letv_make&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1003"/>
+      </ch>
+      <ch id="383" nm="乐视电影" no="383" cata="LT">
+        <i id="0" nm="" tm="0" url="http://live.gslb.letv.com/gslb?stream_id=letv_movie&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1003"/>
+      </ch>
+      <ch id="384" nm="乐视电影片花" no="384" cata="LT">
+        <i id="0" nm="" tm="0" url="http://live.gslb.letv.com/gslb?stream_id=movie_trailer&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1003"/>
+      </ch>
+      <ch id="385" nm="乐视电视剧" no="385" cata="LT">
+        <i id="0" nm="" tm="0" url="http://live.gslb.letv.com/gslb?stream_id=letv_tv&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1003"/>
+      </ch>
+      <ch id="386" nm="乐视韩剧" no="386" cata="LT">
+        <i id="0" nm="" tm="0" url="http://live.gslb.letv.com/gslb?stream_id=letv_koreatv&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1003"/>
+      </ch>
+      <ch id="387" nm="乐视跟播" no="387" cata="LT">
+        <i id="0" nm="" tm="0" url="http://live.gslb.letv.com/gslb?stream_id=letv_genbo&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1003"/>
+      </ch>
+      <ch id="388" nm="乐视文娱" no="388" cata="LT">
+        <i id="0" nm="" tm="0" url="http://live.gslb.letv.com/gslb?stream_id=letv_ent&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1003"/>
+      </ch>
+      <ch id="389" nm="乐视音乐" no="389" cata="LT">
+        <i id="0" nm="" tm="0" url="http://live.gslb.letv.com/gslb?stream_id=letv_music&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1003"/>
+      </ch>
+      <ch id="390" nm="乐视动漫" no="390" cata="LT">
+        <i id="0" nm="" tm="0" url="http://live.gslb.letv.com/gslb?stream_id=letv_comic&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1003"/>
+      </ch>
+      <ch id="391" nm="乐视纪录片" no="391" cata="LT">
+        <i id="0" nm="" tm="0" url="http://live.gslb.letv.com/gslb?stream_id=letv_jilu&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1003"/>
+      </ch>
+      <ch id="392" nm="乐视亲子" no="392" cata="LT">
+        <i id="0" nm="" tm="0" url="http://live.gslb.letv.com/gslb?stream_id=letv_qinzi_1300&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1003"/>
+      </ch>
+      <ch id="393" nm="乐视足球" no="393" cata="cLT">
+        <i id="0" nm="" tm="0" url="http://live.gslb.letv.com/gslb?stream_id=letv_zuqiu&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1003"/>
+      </ch>
+      <ch id="394" nm="乐视网球" no="394" cata="cLT">
+        <i id="0" nm="" tm="0" url="http://live.gslb.letv.com/gslb?stream_id=letv_wangqiu&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1003"/>
+      </ch>
+      <ch id="395" nm="乐视高尔夫" no="395" cata="cLT">
+        <i id="0" nm="" tm="0" url="http://live.gslb.letv.com/gslb?stream_id=letv_golf&amp;tag=live&amp;ext=m3u8&amp;sign=live_tv&amp;platid=10&amp;splatid=1003"/>
+      </ch>
+      <ch id="412" nm="湖南公共" no="412" cata="sZ">
+        <i id="0" nm="" tm="0" url="http://api.veryhd.net/live_proxy/imgo512/6.m3u8"/>
+      </ch>
+      <ch id="413" nm="湖南经视" no="413" cata="sZ">
+        <i id="0" nm="" tm="0" url="http://api.veryhd.net/live_proxy/imgo512/2.m3u8"/>
+      </ch>
+      <ch id="414" nm="湖南国际" no="414" cata="sZ">
+        <i id="0" nm="" tm="0" url="http://api.veryhd.net/live_proxy/imgo512/12.m3u8"/>
+      </ch>
+      <ch id="415" nm="湖南电视剧" no="415" cata="sZ">
+        <i id="0" nm="" tm="0" url="http://api.veryhd.net/live_proxy/imgo512/5.m3u8"/>
+      </ch>
+      <ch id="416" nm="湖南娱乐" no="416" cata="sZ">
+        <i id="0" nm="" tm="0" url="http://api.veryhd.net/live_proxy/imgo512/3.m3u8"/>
+      </ch>
+      <ch id="417" nm="湖南快乐购" no="417" cata="sZ">
+        <i id="0" nm="" tm="0" url="http://api.veryhd.net/live_proxy/imgo512/9.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://ims.veryhd.net/ty/imgo.php?id=9"/>
+      </ch>
+      <ch id="418" nm="金鹰纪实" no="418" cata="sZ">
+        <i id="0" nm="" tm="0" url="http://api.veryhd.net/live_proxy/imgo512/8.m3u8"/>
+      </ch>
+      <ch id="419" nm="金鹰卡通" no="419" cata="sZ">
+        <i id="0" nm="" tm="0" url="http://api.veryhd.net/live_proxy/imgo512/10.m3u8"/>
+      </ch>
+      <ch id="421" nm="天津新闻" no="421" cata="gZ">
+        <i id="0" nm="" tm="0" url="http://61.181.152.138:8070/m3u/9082/ipad.m3u8"/>
+      </ch>
+      <ch id="422" nm="天津文艺" no="422" cata="gZ">
+        <i id="0" nm="" tm="0" url="http://61.181.152.138:8070/m3u/9083/ipad.m3u8"/>
+      </ch>
+      <ch id="423" nm="天津影视" no="423" cata="gZ">
+        <i id="0" nm="" tm="0" url="http://61.181.152.138:8070/m3u/9084/ipad.m3u8"/>
+      </ch>
+      <ch id="424" nm="天津都市 " no="424" cata="gZ">
+        <i id="0" nm="" tm="0" url="http://61.181.152.138:8070/m3u/9085/ipad.m3u8"/>
+      </ch>
+      <ch id="425" nm="天津体育" no="425" cata="cgZ">
+        <i id="0" nm="" tm="0" url="http://61.181.152.138:8070/m3u/9086/ipad.m3u8"/>
+      </ch>
+      <ch id="426" nm="天津科教" no="426" cata="gZ">
+        <i id="0" nm="" tm="0" url="http://61.181.152.138:8070/m3u/9087/ipad.m3u8"/>
+      </ch>
+      <ch id="427" nm="天津少儿" no="427" cata="gZ">
+        <i id="0" nm="" tm="0" url="http://61.181.152.138:8070/m3u/9088/ipad.m3u8"/>
+      </ch>
+      <ch id="428" nm="天津公共" no="428" cata="gZ">
+        <i id="0" nm="" tm="0" url="http://61.181.152.138:8070/m3u/9092/ipad.m3u8"/>
+      </ch>
+      <ch id="429" nm="天津国际" no="429" cata="gZ">
+        <i id="0" nm="" tm="0" url="http://61.181.152.138:8070/m3u/9093/ipad.m3u8"/>
+      </ch>
+      <ch id="430" nm="天津滨海1" no="430" cata="gZ">
+        <i id="0" nm="" tm="0" url="http://220.181.168.173:2554/160_51975"/>
+      </ch>
+      <ch id="431" nm="天津滨海2" no="431" cata="gZ">
+        <i id="0" nm="" tm="0" url="http://220.181.168.173:2554/160_51976"/>
+      </ch>
+      <ch id="450" nm="重庆新闻" no="450" cata="hZ">
+        <i id="0" nm="" tm="0" url="http://live1.cqnews.net/ts/124/124_video.m3u8"/>
+        <i id="0" nm="" tm="1" url="rtmp://live5.cqnews.net:1935/live/TVFLV13"/>
+      </ch>
+      <ch id="455" nm="江苏体育" no="455" cata="cuZ">
+        <i id="0" nm="" tm="0" url="http://202.102.79.116:554/live_sd/jsxx.stream/playlist.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://122.192.35.77:554/live/jsxx.stream/playlist.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://74.82.62.52:1935/liverepeater/17.stream/playlist.m3u8"/>
+      </ch>
+      <ch id="456" nm="江苏影视" no="456" cata="duZ">
+        <i id="0" nm="" tm="0" url="http://122.192.35.77:554/live/jsys.stream/playlist.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://74.82.62.52:1935/liverepeater/18.stream/playlist.m3u8"/>
+      </ch>
+      <ch id="457" nm="江苏综艺" no="457" cata="uZ">
+        <i id="0" nm="" tm="0" url="http://122.192.35.77:554/live/jszy.stream/playlist.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://74.82.62.52:1935/liverepeater/20.stream/playlist.m3u8"/>
+      </ch>
+      <ch id="458" nm="江苏公共" no="458" cata="uZ">
+        <i id="0" nm="" tm="0" url="http://122.192.35.77:554/live/jsgg2.stream/playlist.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://202.102.79.116:554/live_sd/jsgg.stream/playlist.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://74.82.62.52:1935/liverepeater/6401.stream/playlist.m3u8"/>
+      </ch>
+      <ch id="459" nm="江苏城市" no="459" cata="uZ">
+        <i id="0" nm="" tm="0" url="http://122.192.35.77:554/live/jscs.stream/playlist.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://74.82.62.52:1935/liverepeater/19.stream/playlist.m3u8"/>
+      </ch>
+      <ch id="460" nm="江苏教育" no="460" cata="uZ">
+        <i id="0" nm="" tm="0" url="http://122.192.35.77:554/live/jsjy2.stream/playlist.m3u8"/>
+        <i id="0" nm="" tm="1" url="http://202.102.79.116:554/live_sd/jsjy.stream/playlist.m3u8"/>
+        <i id="0" nm="" tm="2" url="http://74.82.62.52:1935/liverepeater/22.stream/playlist.m3u8"/>
+      </ch>
+      <ch id="461" nm="江苏国际" no="461" cata="uZ">
+        <i id="0" nm="" tm="0" url="http://122.192.35.77:554/live/jsgj.stream/playlist.m3u8"/>
+      </ch>
+      <ch id="462" nm="河南都市" no="462" cata="HZ">
+        <i id="0" nm="" tm="0" url="http://live.hntv.tv/channels/tvie/video_channel_02/flv:hntv2_apple_200k/live"/>
+      </ch>
+      <ch id="463" nm="河南民生" no="463" cata="HZ">
+        <i id="0" nm="" tm="0" url="http://live.hntv.tv/channels/tvie/video_channel_03/flv:hntv3_apple_200k/live"/>
+      </ch>
+      <ch id="464" nm="河南政法" no="464" cata="HZ">
+        <i id="0" nm="" tm="0" url="http://live.hntv.tv/channels/tvie/video_channel_04/flv:hntv4_apple_200k/live"/>
+      </ch>
+      <ch id="465" nm="河南电视剧" no="465" cata="dHZ">
+        <i id="0" nm="" tm="0" url="http://live.hntv.tv/channels/tvie/video_channel_05/flv:hntv5_apple_200k/live"/>
+      </ch>
+      <ch id="466" nm="河南新闻" no="466" cata="HZ">
+        <i id="0" nm="" tm="0" url="http://live.hntv.tv/channels/tvie/video_channel_06/flv:hntv6_apple_200k/live"/>
+      </ch>
+      <ch id="467" nm="河南欢腾购物" no="467" cata="HZ">
+        <i id="0" nm="" tm="0" url="http://live.hntv.tv/channels/tvie/video_channel_06/flv:hntv6_apple_200k/live"/>
+      </ch>
+      <ch id="468" nm="河南公共" no="468" cata="HZ">
+        <i id="0" nm="" tm="0" url="http://live.hntv.tv/channels/tvie/video_channel_08/flv:hntv8_apple_200k/live"/>
+      </ch>
+      <ch id="469" nm="河南新农村" no="469" cata="HZ">
+        <i id="0" nm="" tm="0" url="http://live.hntv.tv/channels/tvie/video_channel_09/flv:hntv9_apple_250k/live"/>
+      </ch>
+      <ch id="470" nm="河南国际" no="470" cata="HZ">
+        <i id="0" nm="" tm="0" url="http://live.hntv.tv/channels/tvie/video_channel_10/flv:300k/live"/>
+      </ch>
+      <ch id="476" nm="郑州都市生活" no="476" cata="HZ">
+        <i id="0" nm="" tm="0" url="http://tsl.ntv.cutv.com:91/cutvlive/D7oqD92/hls/live.m3u8"/>
+      </ch>
+      <ch id="477" nm="福建新闻" no="477" cata="MZ">
+        <i id="0" nm="" tm="0" url="http://live1.fjtv.net/xwpd/sd/live.m3u8"/>
+      </ch>
+      <ch id="478" nm="福建电视剧" no="478" cata="dMZ">
+        <i id="0" nm="" tm="0" url="http://live1.fjtv.net/dsjpd/sd/live.m3u8"/>
+      </ch>
+      <ch id="479" nm="福建少儿" no="479" cata="eMZ">
+        <i id="0" nm="" tm="0" url="http://live1.fjtv.net/dspd/sd/live.m3u8"/>
+      </ch>
+      <ch id="480" nm="福建经济" no="480" cata="MZ">
+        <i id="0" nm="" tm="0" url="http://live1.fjtv.net/jjpd/sd/live.m3u8"/>
+      </ch>
+      <ch id="481" nm="福建公共" no="481" cata="MZ">
+        <i id="0" nm="" tm="0" url="http://live1.fjtv.net/ggpd/sd/live.m3u8"/>
+      </ch>
+      <ch id="482" nm="福建综合" no="482" cata="MZ">
+        <i id="0" nm="" tm="0" url="http://live1.fjtv.net/zhpd/sd/live.m3u8"/>
+      </ch>
+      <ch id="483" nm="厦门一套" no="483" cata="MZ">
+        <i id="0" nm="" tm="0" url="http://220.181.168.173:2554/160_51961"/>
+      </ch>
+      <ch id="484" nm="厦门二套" no="484" cata="MZ">
+        <i id="0" nm="" tm="0" url="http://220.181.168.173:2554/160_51963"/>
+      </ch>
+      <ch id="485" nm="厦门三套" no="485" cata="MZ">
+        <i id="0" nm="" tm="0" url="http://220.181.168.173:2554/160_51962"/>
+      </ch>
+      <ch id="486" nm="福州新闻" no="486" cata="MZ">
+        <i id="0" nm="" tm="0" url="rtmp://live2.fzntv.cn:1935/live/_definst_/zohi_fztv1"/>
+      </ch>
+      <ch id="487" nm="福州影视" no="487" cata="dMZ">
+        <i id="0" nm="" tm="0" url="rtmp://live2.fzntv.cn:1935/live/_definst_/zohi_fztv2"/>
+      </ch>
+      <ch id="488" nm="福州生活" no="488" cata="MZ">
+        <i id="0" nm="" tm="0" url="rtmp://live2.fzntv.cn:1935/live/_definst_/zohi_fztv3"/>
+      </ch>
+      <ch id="489" nm="福州少儿" no="489" cata="eMZ">
+        <i id="0" nm="" tm="0" url="rtmp://live2.fzntv.cn:1935/live/_definst_/zohi_fztv4"/>
+      </ch>
+      <ch id="490" nm="哈尔滨新闻" no="490" cata="qZ">
+        <i id="0" nm="" tm="0" url="http://222.171.183.168/live/6425a58c205b4665b320dfb52572ccca?fmt=h264_500k_flv"/>
+      </ch>
+      <ch id="491" nm="哈尔滨资讯" no="491" cata="qZ">
+        <i id="0" nm="" tm="0" url="http://222.171.183.168/live/a0ec0db48f2c48c6823967990b86120d?fmt=h264_500k_flv"/>
+      </ch>
+      <ch id="492" nm="哈尔滨生活" no="492" cata="qZ">
+        <i id="0" nm="" tm="0" url="http://222.171.183.168/live/4e951f7b94704da6a9d0e7a15ab79d58?fmt=h264_500k_flv"/>
+      </ch>
+      <ch id="493" nm="哈尔滨影视" no="493" cata="dqZ">
+        <i id="0" nm="" tm="0" url="http://222.171.183.168/live/6425a58c205b4665b320dfb52572ccca?fmt=h264_500k_flv"/>
+      </ch>
+      <ch id="494" nm="大庆综合" no="494" cata="qZ">
+        <i id="0" nm="" tm="0" url="rtmp://live1.baihuwang.com:1935/live/zh"/>
+      </ch>
+      <ch id="495" nm="大庆百湖" no="495" cata="qZ">
+        <i id="0" nm="" tm="0" url="rtmp://live1.baihuwang.com:1935/live/bh"/>
+      </ch>
+      <ch id="496" nm="大庆影视" no="496" cata="dqZ">
+        <i id="0" nm="" tm="0" url="rtmp://live1.baihuwang.com:1935/live/ys"/>
+      </ch>
+      <ch id="497" nm="大庆直播" no="497" cata="qZ">
+        <i id="0" nm="" tm="0" url="rtmp://live1.baihuwang.com:1935/live/kj"/>
+      </ch>
+      <ch id="503" nm="贵阳新闻综合" no="503" cata="NZ">
+        <i id="0" nm="" tm="0" url="http://tsl.ntv.cutv.com:91/cutvlive/f5QDCfV/hls/live.m3u8"/>
+      </ch>
+      <ch id="504" nm="贵阳经济生活" no="504" cata="NZ">
+        <i id="0" nm="" tm="0" url="http://tsl.ntv.cutv.com:91/cutvlive/ud4Og9z/hls/live.m3u8"/>
+      </ch>
+      <ch id="505" nm="贵阳法制频道" no="505" cata="NZ">
+        <i id="0" nm="" tm="0" url="http://tsl.ntv.cutv.com:91/cutvlive/o0KnE21/hls/live.m3u8"/>
+      </ch>
+      <ch id="506" nm="贵阳都市频道" no="506" cata="NZ">
+        <i id="0" nm="" tm="0" url="http://tsl.ntv.cutv.com:91/cutvlive/t6twAhp/hls/live.m3u8"/>
+      </ch>
+      <ch id="507" nm="天元围棋" no="507" cata="NZ">
+        <i id="0" nm="" tm="0" url="http://live.togic.com/live/letv_ipad/tywq"/>
+      </ch>
+      <ch id="508" nm="长春综合" no="508" cata="jZ">
+        <i id="0" nm="" tm="0" url="http://live.chinactv.com/ctv1/sd/live.m3u8"/>
+      </ch>
+      <ch id="509" nm="长春娱乐" no="509" cata="jZ">
+        <i id="0" nm="" tm="0" url="http://live.chinactv.com/ctv2/sd/live.m3u8"/>
+      </ch>
+      <ch id="510" nm="长春市民" no="510" cata="jZ">
+        <i id="0" nm="" tm="0" url="http://live.chinactv.com/ctv3/sd/live.m3u8"/>
+      </ch>
+      <ch id="511" nm="长春商业" no="511" cata="jZ">
+        <i id="0" nm="" tm="0" url="http://live.chinactv.com/ctv4/sd/live.m3u8"/>
+      </ch>
+      <ch id="512" nm="长春新知" no="512" cata="jZ">
+        <i id="0" nm="" tm="0" url="http://live.chinactv.com/ctv5/sd/live.m3u8"/>
+      </ch>
+      <ch id="513" nm="沈阳新闻" no="513" cata="FZ">
+        <i id="0" nm="" tm="0" url="http://streamer.csytv.com/live/1?fmt=H264_800K_FLV"/>
+      </ch>
+      <ch id="526" nm="江西都市" no="526" cata="vZ">
+        <i id="0" nm="" tm="0" url="rtmp://live01.jxntv.cn/channel2/livestream"/>
+      </ch>
+      <ch id="527" nm="江西经济" no="527" cata="vZ">
+        <i id="0" nm="" tm="0" url="rtmp://live01.jxntv.cn/channel3/livestream"/>
+      </ch>
+      <ch id="528" nm="江西影视" no="528" cata="dvZ">
+        <i id="0" nm="" tm="0" url="rtmp://live01.jxntv.cn/channel4/livestream"/>
+      </ch>
+      <ch id="529" nm="江西公共" no="529" cata="vZ">
+        <i id="0" nm="" tm="0" url="rtmp://live01.jxntv.cn/channel5/livestream"/>
+      </ch>
+      <ch id="530" nm="江西少儿" no="530" cata="evZ">
+        <i id="0" nm="" tm="0" url="rtmp://live01.jxntv.cn/channel6/livestream"/>
+      </ch>
+      <ch id="531" nm="江西红色经典" no="531" cata="vZ">
+        <i id="0" nm="" tm="0" url="rtmp://live01.jxntv.cn/channel7/livestream"/>
+      </ch>
+      <ch id="532" nm="江西移动电视" no="532" cata="vZ">
+        <i id="0" nm="" tm="0" url="rtmp://live01.jxntv.cn/channel9/livestream"/>
+      </ch>
+      <ch id="533" nm="江西风尚购物" no="533" cata="vZ">
+        <i id="0" nm="" tm="0" url="rtmp://live01.jxntv.cn/channel8/livestream"/>
+      </ch>
+      <ch id="534" nm="韩国001" no="534" cata="X">
+        <i id="0" nm="" tm="0" url="rtmp://lm01.everyontv.net/ptv2/phd1"/>
+      </ch>
+      <ch id="535" nm="韩国002" no="535" cata="X">
+        <i id="0" nm="" tm="0" url="rtmp://lm01.everyontv.net/ptv2/phd2"/>
+      </ch>
+      <ch id="534" nm="韩国007" no="534" cata="X">
+        <i id="0" nm="" tm="0" url="rtmp://lm02.everyontv.net/ptv/phd7"/>
+      </ch>
+    </liveType>
+    <tm>20140329110355</tm>
+  </attributes>
+</response>
